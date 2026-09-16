@@ -1,2 +1,2 @@
 # TuxLinux
-Free linux live OS
+Free Gnu/Linux live OS
